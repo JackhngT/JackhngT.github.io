@@ -1,0 +1,175 @@
+
+/* index */
+
+.index-block{
+margin-top: 3rem;
+margin-left: 29rem;
+}
+.jumbotron{
+    margin-top: 10%;
+    width: 600px;
+    padding-top: 2rem;
+    height: 300px;
+    border-color: #F6F6F6;
+    border-style: solid;
+    background-color: #2C2E3E;
+    font-family: 'Montserrat', sans-serif;
+    color: #EE2B47;
+ 
+}
+
+.intro-info{
+ font-weight: 500;   
+}
+
+.my-4{
+    border-color: #EE2B47;
+}
+
+.intro{
+    font-size: 300%;
+    font-family: 'Montserrat';
+    font-weight: 600;
+ 
+}
+
+.profile-pic{
+    height: 650px;
+    margin-top: 3.5rem;
+    border-style: solid;
+    border-color: #F6F6F6;
+}
+
+.carousel-total{
+
+    width: 600px;
+    border-style: solid;
+    border-color: #F6F6F6;
+    background-color: #2C2E3E;
+}
+
+body{
+    background-color: #34374C;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    min-width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+
+/* Contact me */
+
+.contact{
+    padding: 4%;
+    height: 400px;
+    margin-top: 5%;
+}
+.col-md-3{
+    background: #2C2E3E ;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    color: #EE2B47;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+
+    background-image: url("../plant.jpg");
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    color: #EE2B47;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #EE2B47;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+/* Skills */
+.skills{
+    margin-top: 10rem;
+}
+.skillbox{
+    width: 400px;
+    height: 200px;
+    margin-top: 2rem;
+}
+
+.topL-btmR{
+    background-color: #F6F6F6;
+    padding-top: 1rem;
+    color: #2C2E3E;
+    border-style: solid;
+    border-color: #EE2B47;
+}
+
+.topR-btmL{
+    background-color: #2C2E3E;
+    padding-top: 1rem;
+    color: #F6F6F6;
+    border-style: solid;
+    border-color: #EE2B47;
+}
+
+/* About me */ 
+
+.hobbies-main{
+text-align: center;
+
+}
+.hobbies{
+    background-color: #2C2E3E;
+    margin: 2%;
+    padding-top: 1rem;
+    color: #EE2B47;
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+.H-spacing{
+    height: 1rem;
+}
+
+.image-me{
+    text-align: center;
+    margin-top: 2rem;
+
+}
+
+/* Nav */
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    bottom: 15%;
+    font-size: larger;
+     }
+        
+    .nav-icons
+    {
+        position: absolute;
+    }
+    
+    .my-nav
+    {
+        background: black;
+        opacity: 50%;
+    }
+    
